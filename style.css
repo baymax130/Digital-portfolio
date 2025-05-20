@@ -30,6 +30,7 @@
 
         .qualification-card:hover {
             transform: translateY(-5px);
+            box-shadow: 0 4px 6px rgba(140, 9, 176, 0.497);
         }
 
         .qualification-card h3 {
@@ -98,6 +99,7 @@
 
         .nav-links a:hover {
             color: var(--accent);
+            box-shadow: 0 4px 6px rgba(140, 9, 176, 0.497);
         }
 
         /* Hero Section */
@@ -165,6 +167,7 @@
 
         .project-card:hover {
             transform: translateY(-10px);
+            box-shadow: 0 4px 6px rgba(140, 9, 176, 0.497);
         }
 
         .project-img {
